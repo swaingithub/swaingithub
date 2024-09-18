@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a **Mobile Application Developer** with expert
 ---
 
 ### 💼 What I'm Working On
-- 🔭 Building cross-platform mobile applications with **Flutter** and **React Native**.
-- 🌱 Currently learning **Flutter-Bloc**, **React Native Hooks**, and advanced Android development.
+- 🔭 Building cross-platform mobile applications with **Android**, **Flutter** and **React Native**.
+- 🌱 Currently learning **Jetpack Compose**, **Flutter-Bloc**, **React Native Hooks**, and advanced Android development.
 - 👯 Looking to collaborate on **innovative mobile projects** with cutting-edge tech.
   
 ---
