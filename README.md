@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a **Mobile Application Developer** with expert
 ---
 
 ### 💬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com)
-- 💻 [Portfolio](https://your-portfolio.com) (If you have one)
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raka1/)
+- 💻 [Portfolio](https://swaingithub.github.io/my_portfolio/)
+- 📫 How to reach me: [swainrakesh990@gmail.com](mailto:swainrakesh990@gmail.com)
 
 ---
 
