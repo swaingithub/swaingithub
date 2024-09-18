@@ -42,9 +42,21 @@ Welcome to my GitHub profile! I'm a **Mobile Application Developer** with expert
 ---
 
 ### 🚀 Latest Projects
-- [Project 1](https://github.com/swaingithub/project1) - Description of the project.
-- [Project 2](https://github.com/swaingithub/project2) - Description of the project.
-- [Project 3](https://github.com/swaingithub/project3) - Description of the project.
+
+#### 📰 News App
+- **Tech Stack**: Android (Kotlin, Jetpack Compose), Node.js, Express.js, MySQL
+- **Overview**: A feature-rich news app that fetches real-time news from multiple sources, categorizes articles, and allows users to bookmark their favorite news. It has a clean UI designed with Jetpack Compose and supports dark mode.
+- [Link to project](https://github.com/swaingithub/news-app)
+
+#### 💘 Dating App
+- **Tech Stack**: Flutter, Node.js, Express.js, MySQL
+- **Overview**: A modern dating app with profile creation, swipe functionality, and real-time chat. It supports location-based suggestions and offers a clean, user-friendly interface.
+- [Link to project](https://github.com/swaingithub/dating-app)
+
+#### 🏢 PG/Hostel Management System
+- **Tech Stack**: React Native, Node.js, Express.js, MySQL
+- **Overview**: A hostel management app for administrators to manage student data, room allocations, and notifications with a streamlined admin dashboard.
+- [Link to project](https://github.com/swaingithub/pg-management)
 
 ---
 
