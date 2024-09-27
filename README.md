@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rakesh!
 
-Welcome to my GitHub profile! I'm a **Mobile Application Developer** with expertise in **Flutter**, and **React Native**, **Android**. I love creating beautiful, functional, and efficient mobile apps, with a passion for UI/UX design using **Figma** and **Photoshop**. Let's build something amazing together! 🚀
+Welcome to my GitHub profile! I'm a **Mobile Application Developer** with expertise in **Flutter**, **React Native** and **Android**. I love creating beautiful, functional, and efficient mobile apps, with a passion for UI/UX design using **Figma** and **Photoshop**. Let's build something amazing together! 🚀
 
 ---
 
